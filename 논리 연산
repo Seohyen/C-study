@@ -5,7 +5,7 @@ false = 0
 && AND 
 AND연산자는 두 피연산자가 모두가 참일 때 true를 반환, 그 외의 경우는 false를 반환
 
-|| OR 
+|| OR  
 OR연산자는 인수 중 하나라도 true이면 true를 반환, 그렇지 않으면 false를 반환
 
 ! NOT
